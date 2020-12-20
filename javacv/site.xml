@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.eco.bio7.javacv.feature_1.4.5.202007131224.jar" id="com.eco.bio7.javacv.feature" version="1.4.5.202007131224">
+      <category name="JavaCV"/>
+   </feature>
+   <category-def name="JavaCV" label="JavaCV">
+      <description>
+         Java Computer Vision libraries.
+      </description>
+   </category-def>
+</site>
