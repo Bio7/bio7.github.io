@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.eco.bio7.ijmacroedit.feature_2.0.274.202012010917.jar" id="com.eco.bio7.ijmacroedit.feature" version="2.0.274.202012010917">
+   <feature url="features/com.eco.bio7.ijmacroedit.feature_2.0.275.202101081800.jar" id="com.eco.bio7.ijmacroedit.feature" version="2.0.275.202101081800">
       <category name="ImageJ"/>
    </feature>
-   <feature url="features/com.eco.bio7.image.feature_1.53.757.202012010917.jar" id="com.eco.bio7.image.feature" version="1.53.757.202012010917">
+   <feature url="features/com.eco.bio7.image.feature_1.53.830.202101081800.jar" id="com.eco.bio7.image.feature" version="1.53.830.202101081800">
       <category name="ImageJ"/>
    </feature>
-   <feature url="features/com.eco.bio7.jfxswt.feature_1.0.0.202012010917.jar" id="com.eco.bio7.jfxswt.feature" version="1.0.0.202012010917">
+   <feature url="features/com.eco.bio7.jfxswt.feature_1.0.0.202101081800.jar" id="com.eco.bio7.jfxswt.feature" version="1.0.0.202101081800">
       <category name="ImageJ"/>
    </feature>
    <category-def name="ImageJ" label="ImageJ">
