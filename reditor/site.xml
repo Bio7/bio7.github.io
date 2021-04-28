@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.eco.bio7.redit.feature_2.5.1.202104281816.jar" id="com.eco.bio7.redit.feature" version="2.5.1.202104281816">
+      <category name="R Editor"/>
+   </feature>
+   <category-def name="R Editor" label="R Editor"/>
+</site>
