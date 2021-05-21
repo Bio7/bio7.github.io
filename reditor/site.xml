@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.eco.bio7.redit.feature_2.5.2.202105081049.jar" id="com.eco.bio7.redit.feature" version="2.5.2.202105081049">
+   <feature url="features/com.eco.bio7.redit.feature_2.5.3.202105211951.jar" id="com.eco.bio7.redit.feature" version="2.5.3.202105211951">
       <category name="R Editor"/>
    </feature>
    <category-def name="R Editor" label="R Editor"/>
